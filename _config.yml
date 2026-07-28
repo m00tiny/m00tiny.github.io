@@ -21,7 +21,7 @@ title                    : "m00tiny's GitHub"
 title_separator          : "-"
 subtitle                 : "Counter-culture music, counter-culture operating systems" # site tagline that appears below site title in masthead
 name                     : "Stuart Gray"
-description              : "An amazing jekyll website, with minimal mistakes."
+description              : "m00tiny's github repository and blog"
 url                      : "https://m00tiny.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "m00tiny/m00tiny.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -331,4 +331,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
 
