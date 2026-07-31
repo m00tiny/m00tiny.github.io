@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "m00tiny's first jekyll post on GitHub Pages"
 ---
 
